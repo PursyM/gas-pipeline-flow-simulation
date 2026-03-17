@@ -1,15 +1,34 @@
-# gas-pipeline-flow-simulation
-Mathematical modeling and simulation of gas pipeline flow using Python
+# Gas Pipeline Flow Simulation Using Python
 
-This project explores the mathematical modeling and simulation of gas flow in pipelines using Python.
+## Final Project
 
-The goal is to analyze how pipeline parameters such as length, diameter, and gas velocity influence pressure losses during gas transport.
+**Author:** Petar Mihaylov  
+**University:** SofUni (Software University)  
+**Module:** Math Concepts for Developers – Online  
+**Lecturer:** Yordan Darakchiev  
 
-The project includes:
+---
 
-- Mathematical background of gas flow
-- Python simulation models
-- Visualization of pipeline pressure losses
-- Analysis of pipeline parameters
+## Project Overview
 
-Author: Petar Mihaylov
+This project simulates natural gas flow in a transmission pipeline using Python.
+
+The model includes:
+
+- Compressibility factor (Z)
+- Natural gas density calculation
+- Gas velocity in pipeline
+- Reynolds number and flow regime
+- Pipeline capacity analysis
+- Pressure drop calculation
+- Pressure profile visualization
+- Compressor station simulation
+
+---
+
+## Tools Used
+
+- Python  
+- NumPy  
+- Matplotlib  
+- JupyterLab  
